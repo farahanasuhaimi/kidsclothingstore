@@ -1,4 +1,4 @@
-*Key components and featurest:*
+*Key components and features:*
 
 1. **Product Listings**:
    - Create a product listing page that displays a grid of kids' clothing products.
