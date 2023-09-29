@@ -1,10 +1,10 @@
 *Key components and features:*
 
 1. **Product Listings**:
-   [ ] Create CMS for the Products
-   [ ] Create a product listing page that displays a grid of kids' clothing products.
-   [ ] Fetch and display product data from your Laravel backend API.
-   [ ] Include filters and sorting options for users to browse products easily.
+   - [ ] Create CMS for the Products
+   - [ ] Create a product listing page that displays a grid of kids' clothing products.
+   - [ ] Fetch and display product data from your Laravel backend API.
+   - [ ] Include filters and sorting options for users to browse products easily.
 
 2. **Product Detail Pages**:
    - Implement individual product detail pages where users can view detailed information about each clothing item.
