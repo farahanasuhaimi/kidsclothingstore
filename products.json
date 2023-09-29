@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Cute Dinosaur T-shirt",
+        "description": "A fun and colorful dinosaur-themed T-shirt for kids.",
+        "price": 12.99,
+        "quantity": 50,
+        "category_id": 1,
+        "size_id": 1,
+        "color_id": 3
+    },
+    {
+        "name": "Blue Denim Jeans",
+        "description": "Stylish blue denim jeans for boys and girls.",
+        "price": 19.99,
+        "quantity": 40,
+        "category_id": 2,
+        "size_id": 2,
+        "color_id": 2
+    },
+    {
+        "name": "Floral Summer Dress",
+        "description": "A beautiful floral summer dress for girls.",
+        "price": 24.99,
+        "quantity": 30,
+        "category_id": 3,
+        "size_id": 3,
+        "color_id": 5
+    },
+    {
+        "name": "Superhero Hoodie",
+        "description": "A cozy superhero-themed hoodie for chilly days.",
+        "price": 29.99,
+        "quantity": 25,
+        "category_id": 4,
+        "size_id": 1,
+        "color_id": 1
+    },
+    {
+        "name": "Rainbow Striped Socks",
+        "description": "Colorful rainbow-striped socks for kids.",
+        "price": 7.99,
+        "quantity": 100,
+        "category_id": 5,
+        "size_id": 4,
+        "color_id": 6
+    },
+    {
+        "name": "Elegant Bowtie",
+        "description": "A classic and elegant bowtie for formal occasions.",
+        "price": 9.99,
+        "quantity": 60,
+        "category_id": 6,
+        "size_id": 5,
+        "color_id": 4
+    },
+    {
+        "name": "Cotton Pajama Set",
+        "description": "Comfortable cotton pajamas for a good night's sleep.",
+        "price": 18.99,
+        "quantity": 35,
+        "category_id": 7,
+        "size_id": 2,
+        "color_id": 2
+    },
+    {
+        "name": "Sparkling Sneakers",
+        "description": "Sparkling sneakers for active kids.",
+        "price": 34.99,
+        "quantity": 20,
+        "category_id": 8,
+        "size_id": 3,
+        "color_id": 7
+    },
+    {
+        "name": "Polka Dot Umbrella",
+        "description": "A cute polka dot umbrella to keep kids dry on rainy days.",
+        "price": 14.99,
+        "quantity": 45,
+        "category_id": 9,
+        "size_id": 6,
+        "color_id": 1
+    },
+    {
+        "name": "Striped Swim Shorts",
+        "description": "Colorful striped swim shorts for fun days at the beach.",
+        "price": 16.99,
+        "quantity": 55,
+        "category_id": 10,
+        "size_id": 3,
+        "color_id": 8
+    }
+]
