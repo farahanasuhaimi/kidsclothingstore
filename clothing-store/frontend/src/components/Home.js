@@ -19,17 +19,8 @@ function Home() {
     
     return (
         <div>
-            <h2>Home Page</h2>
-            <h1>
-        Hello, {' '} 
-            <span className={`glitter ${savedName ? '' : 'glitter-hidden'}`}>
-            {savedName ? savedName : 'World'}</span>
-            </h1>
-            <input 
-            type="text" 
-            placeholder="Enter your name"
-            value={userName}
-            onChange={(e) => setUserName(e.target.value)}/>
+            <h2>Nurza Kids Clothing Store</h2>
+            <h1>Welcome</h1>
         </div>
     );
 }
